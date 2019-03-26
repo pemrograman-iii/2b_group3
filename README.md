@@ -1,2 +1,9 @@
 # 2b_group3
-Doli Jonviter
+Mentor : Doli Jonviter
+
+Anggota :
+- Muhammad Afra Faris
+- Salwa Tania
+- Teddy Gidean Manik
+- Rangga Putra Ramadhan
+- Mhd Zulfikar Akram Nasution
